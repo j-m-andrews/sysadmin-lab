@@ -13,7 +13,8 @@ roles.
 
 ## Lab Modules
 - Day 1-2: User and Group Management
-- Day 3: systemd Service Management (upcoming)
+- Day 3: systemd Service Management
+- Day 4: Networking Fundamentals
 
 ## Author
 Jordan Andrews
